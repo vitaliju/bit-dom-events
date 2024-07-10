@@ -1,0 +1,7 @@
+.intro {
+    padding: 2rem;
+}
+.intro > button {
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
